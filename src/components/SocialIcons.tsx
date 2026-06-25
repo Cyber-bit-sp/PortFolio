@@ -68,12 +68,6 @@ const SocialIcons = () => {
             <FaLinkedinIn />
           </a>
         </span>
-
-        <span>
-          <a href="https://www.instagram.com/_r_a_j_e_s_h_0_1_?igsh=MjkwZnNsNzh6Mnpr" target="_blank">
-            <FaInstagram />
-          </a>
-        </span>
       </div>
       <a className="resume-button" href="/resume.pdf" download="kevin_Resume.pdf">
         <HoverLinks text="RESUME" />
